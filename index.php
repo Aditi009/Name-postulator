@@ -21,7 +21,8 @@
        <section>
        	<video src="smoke.mp4"  autoplay muted loop=loop></video>
       
-       	<h1>
+      
+       	<h1 id="w-v">
        		<span>N</span>
        		<span>A</span>
        		<span>M</span>
@@ -39,8 +40,15 @@
       	<span>L</span>
       	<span>R</span>
       	
-       	</h1>
+      
+		   </h1>
        </section>
+       
+       <div  id="mob-v" >
+       	
+		   <h1 style="margin-top: -40px;">name</h1><h1 style="margin-top:30px;">postulator</h1>
+       </div>
+       
        
         <div class="container mt-5">
             <div class="ser col-md-12">
@@ -48,7 +56,7 @@
                 <input id="text1"  class="form-control" placeholder="Enter your first name">
                 <!--<label id="lu" style="color: red;visibility: hidden">Invilid</label><br><br>-->
                 <button onclick="fn1()"  class="btn"id="btn1">Search</button>
-                <button  class="btn mt-3 ml-2"id="dbtn" style="display: none;">Download</button>
+               
             </div>
             <div id="outout">
                 <div id="inout">
@@ -60,6 +68,7 @@
                     
                 </div>
             </div>
+             <button  class="btn mt-3" id="dbtn">Download</button>
         </div>
         
         <footer>
