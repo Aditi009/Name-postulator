@@ -3,6 +3,10 @@
     background-color: azure;
     margin: 0;
     padding: 0;
+
+}
+body{
+overflow-x: hidden;
 }
 .ser{
     padding-bottom: 10px;
@@ -197,7 +201,7 @@ h1 span
 	border-top: 5px solid firebrick;
 	margin-left: 30%;
 	
-	width:400px;
+	width:340px;
 	align-items: center;
 }
 	h1
