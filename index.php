@@ -73,7 +73,7 @@
         
         <footer>
            <div class="container mt-5">
-           <div class="row ml-5 mt-5">
+           <div class="row  mt-5">
            	<div class="card ml-5 mt-5" style="width: 18rem;">
   <img src="photo-1553481187-be93c21490a9.jpg" class="card-img-top" alt="...">
   <div class="card-body">
@@ -88,7 +88,7 @@
     <a class="btn">Next Game</a>
   </div>
 </div>
-       <div class="card ml-5 mt-5" style="width: 18rem;">
+       <div class="card  ml-5 mt-5" style="width: 18rem;">
   <img src="images%20(2).jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text">A game is a structured form of play, usually undertaken for entertainment or fun, and sometimes used as an educational tool. Games are distinct from work</p>
